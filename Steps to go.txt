@@ -1,0 +1,19 @@
+Open the Pycharm and install the python basic libraries.
+Open the Folder and click on the terminal to install the external libraries
+
+1. pip install SpeechRecognition -> enter 
+2. pip install PyAudio -> enter
+3. pip install pywhatkit -> enter
+4. pip install DateTime -> enter
+5. pip install wikipedia -> enter
+6. pip install pyjokes -> enter 
+
+Write the code accordingly :
+You have to import 6 external libraries inside the code.
+
+import speech_recognition as sr ( Speech Listener)
+import pyttsx3 (Audio)
+import pywhatkit (Whatsapp kit)
+import datetime (It will show the timing)
+import wikipedia (Search from the Wikipedia)
+import pyjokes (Search for the jokes)
